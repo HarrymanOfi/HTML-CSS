@@ -3,12 +3,12 @@
 
     Estou aprendendo a criar sites e agora vou gerenciar repositórios!
  
- <h1>Exercicios</h1><br>
-        <summary>Modulo 1</summary>
-            <ul>
-                <li>
-                <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex001 - hello world/index.html"> Abrir Exercicio 1</a>
-                </li>
+# Exercicios #
+
+## Exercicios ##
+
+[ex001](https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex001 - hello world/index.html)
+<a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex001 - hello world/index.html"> Abrir Exercicio 1</a>
                 <li><a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex002 - paragrafos e quebras de linha/index.html"> Abrir Exercicio 2</a>
                 </li>
                 <li><a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex003 - inserindo imagens/index.html"> Abrir Exercicio 3</a>
@@ -34,7 +34,6 @@
                 <li><a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex014 - css interno/index.html"> Abrir Exercicio 14</a></li>
                 <li><a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex015 - css externo/index.html"> Abrir Exercicio 15</a></li>
                 <li><a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex015 - css externo/pagina02.html"> Abrir Exercicio 15 Pag2</a></li><br>
-            </ul>
     <h2>Modulo 2</h2>
         <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex016 - representando cores/cor01.html"> Abrir Exercicio 16 cor1</a>
         <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex016 - representando cores/cor02.html"> Abrir Exercicio 16 cor2</a>
