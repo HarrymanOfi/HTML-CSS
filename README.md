@@ -4,7 +4,7 @@
     Estou aprendendo a criar sites e agora vou gerenciar repositórios!
  
  <h1>Exercicios</h1><br>
-    <h2>Modulo 1</h2>
+    <strong>Modulo 1</strong>
         <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex001 - hello world/index.html"> Abrir Exercicio 1</a>
         <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex002 - paragrafos e quebras de linha/index.html"> Abrir Exercicio 2</a>
         <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex003 - inserindo imagens/index.html"> Abrir Exercicio 3</a>
