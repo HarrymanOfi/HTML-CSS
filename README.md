@@ -7,16 +7,8 @@
 
 ## Modulo 1 ##
 
-Markup : <details>
-               <summary>Title 1</summary>
-               <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
-             </details>
-
-| Ba  | [Ex001 - Hello world](https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex001 - hello world/index.html)  | [Ex002 - Paragrafos e quebras de linha](https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex002 - paragrafos e quebras de linha/index.html)  | [Ex003 - Inserindo imagens](https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex003 - inserindo imagens/index.html)  |
-|---|---|---|---|
-| BA  |   |   |   |
-| BA  |   |   |   |
-| bA  |   |   |   |
+<details>
+    <summary>Title 1</summary>
 
 - [Ex001 - Hello world](https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex001 - hello world/index.html)
 
@@ -51,6 +43,8 @@ Markup : <details>
 - [Ex015 - css externo](https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex015 - css externo/index.html)
 
 - [Ex015 - css externo.Pag2](https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex015 - css externo/pagina02.html)
+
+</details>
 
 
     <h2>Modulo 2</h2>
