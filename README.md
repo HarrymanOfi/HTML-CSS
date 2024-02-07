@@ -7,7 +7,7 @@
 
 ## Exercicios ##
 
-[ex001](https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex001 - hello world/index.html)
+- [Ex001 - hello world](https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex001 - hello world/index.html)
 <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex001 - hello world/index.html"> Abrir Exercicio 1</a>
                 <li><a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex002 - paragrafos e quebras de linha/index.html"> Abrir Exercicio 2</a>
                 </li>
