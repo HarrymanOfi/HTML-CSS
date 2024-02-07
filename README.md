@@ -7,6 +7,11 @@
 
 ## Modulo 1 ##
 
+Markup : <details>
+               <summary>Title 1</summary>
+               <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+             </details>
+
 | Ba  | [Ex001 - Hello world](https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex001 - hello world/index.html)  | [Ex002 - Paragrafos e quebras de linha](https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex002 - paragrafos e quebras de linha/index.html)  | [Ex003 - Inserindo imagens](https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex003 - inserindo imagens/index.html)  |
 |---|---|---|---|
 | BA  |   |   |   |
