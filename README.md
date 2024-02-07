@@ -9,31 +9,38 @@
 
 
 <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex001 - hello world/index.html"> Exercicio 1</a></li>
-<li><a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex002 - paragrafos e quebras de linha/index.html"> Abrir Exercicio 2</a>
+<li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex002 - paragrafos e quebras de linha/index.html"> Exercicio 2</a>
 </li>
-<li><a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex003 - inserindo imagens/index.html"> Abrir Exercicio 3</a>
+<li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex003 - inserindo imagens/index.html"> Exercicio 3</a>
 </li>
-<li><a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex004 - inserindo favicon/index.html"> Abrir Exercicio 4</a>
+<li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex004 - inserindo favicon/index.html"> Exercicio 4</a>
 </li>
-<li><a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex006 - hierarquia de titulos h1/index.html"> Abrir Exercicio 6</a>
+<li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex006 - hierarquia de titulos h1/index.html"> Exercicio 6</a>
 </li>
-<li><a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex007 - pode ignorar/index.html"> Abrir Exercicio 7</a>
+<li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex007 - pode ignorar/index.html"> Exercicio 7</a>
 </li>
-<li><a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex008a - formatacoes de texto 1/index.html"> Abrir Exercicio 8a</a>
+<li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex008a - formatacoes de texto 1/index.html"> Exercicio 8a</a>
 </li>
-<li><a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex008b - formatacoes de texto 2/index.html"> Abrir Exercicio 8b</a>
+<li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex008b - formatacoes de texto 2/index.html"> Exercicio 8b</a>
 </li>
-<li><a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex009 - inserindo listas/index.html"> Abrir Exercicio 9</a>
+<li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex009 - inserindo listas/index.html"> Exercicio 9</a>
 </li>
-<li><a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex010 - links externos - internos - download/index.html"> Abrir Exercicio 10</a>
+<li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex010 - links externos - internos - download/index.html"> Exercicio 10</a>
 </li>
-<li><a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex010 - links externos - internos - download/pag002.html"> Abrir Exercicio 10 pag2</a></li>
-<li><a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex011 - inserir áudios e imagens dinamicas/index.html"> Abrir Exercicio 11</a></li>
-<li><a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex012 - inserir vídeos/index.html"> Abrir Exercicio 12</a></li>
-<li><a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex013 - css inline/index.html"> Abrir Exercicio 13</a></li>
-<li><a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex014 - css interno/index.html"> Abrir Exercicio 14</a></li>
-<li><a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex015 - css externo/index.html"> Abrir Exercicio 15</a></li>
-<li><a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex015 - css externo/pagina02.html"> Abrir Exercicio 15 Pag2</a></li><br>
+<li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex010 - links externos - internos - download/pag002.html"> Exercicio 10 pag2</a>
+</li>
+<li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex011 - inserir áudios e imagens dinamicas/index.html"> Exercicio 11</a>
+</li>
+<li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex012 - inserir vídeos/index.html"> Exercicio 12</a>
+</li>
+<li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex013 - css inline/index.html"> Exercicio 13</a>
+</li>
+<li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex014 - css interno/index.html"> Exercicio 14</a>
+</li>
+<li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex015 - css externo/index.html"> Exercicio 15</a>
+</li>
+<li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex015 - css externo/pagina02.html"> Exercicio 15 Pag2</a>
+</li><br>
     <h2>Modulo 2</h2>
         <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex016 - representando cores/cor01.html"> Abrir Exercicio 16 cor1</a>
         <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex016 - representando cores/cor02.html"> Abrir Exercicio 16 cor2</a>
