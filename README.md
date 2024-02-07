@@ -18,7 +18,7 @@
     }
 </style>
 
-<div class="Teste">
+<div class="teste">
     <details>
         <summary>Clique Aqui</summary>
         <ul>
