@@ -53,8 +53,8 @@
         <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex015 - css externo/pagina02.html"> Exercicio 15.Pag2</a>
         </li>
     </ul>
-    <hr>
 </details>
+<hr><br>
     <h2>Modulo 2</h2>
         <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex016 - representando cores/cor01.html"> Abrir Exercicio 16 cor1</a>
         <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex016 - representando cores/cor02.html"> Abrir Exercicio 16 cor2</a>
