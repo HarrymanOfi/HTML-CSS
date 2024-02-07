@@ -9,7 +9,9 @@
 
 <details>
 <summary>Modulo 1</summary>
-<li>Ex01 <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex001 - hello world/index.html"></li>
+<ul>
+    <li>Ex01 <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex001 - hello world/index.html">Hello World</a></li>
+</ul>
 
 * [Ex001 - Hello world](https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex001 - hello world/index.html)
 </details>
