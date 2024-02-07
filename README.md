@@ -7,6 +7,12 @@
 
 ## Modulo 1 ##
 
+<style>
+    ul {
+        float:left;
+        margin:0 5px;
+    }
+</style>
 
 <details>
     <summary>Clique Aqui</summary>
@@ -26,6 +32,8 @@
         </li>
         <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex008b - formatacoes de texto 2/index.html"> Exercicio 8b</a>
         </li>
+    </ul>
+    <ul>
         <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex009 - inserindo listas/index.html"> Exercicio 9</a>
         </li>
         <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex010 - links externos - internos - download/index.html"> Exercicio 10</a>
@@ -45,6 +53,7 @@
         <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex015 - css externo/pagina02.html"> Exercicio 15.Pag2</a>
         </li>
     </ul>
+    <hr>
 </details>
     <h2>Modulo 2</h2>
         <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex016 - representando cores/cor01.html"> Abrir Exercicio 16 cor1</a>
