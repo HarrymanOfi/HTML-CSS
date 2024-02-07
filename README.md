@@ -19,7 +19,7 @@
 </style>
 
 <details>
-        <summary>Clique Aqui</summary>
+    <summary>Clique Aqui</summary>
         <ul>
             <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex001 - hello world/index.html"> Exercicio 1</a></li>
             <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex002 - paragrafos e quebras de linha/index.html"> Exercicio 2</a>
@@ -61,48 +61,56 @@
 ## Modulo 2 ##
 
 <details>
-    <ul>
-        <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex016 - representando cores/cor01.html"> Exercicio 16 cor1</a>     
-        </li>
-        <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex016 - representando cores/cor02.html"> Exercicio 16 cor2</a>
-        </li>
-        <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex016 - representando cores/cor03.html"> Exercicio 16 cor3</a>
-        </li>
-        <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex017 - Famílias de fonte com CSS/font01.html"> Exercicio 17 font01</a>
-        </li>
-        <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex017 - Famílias de fonte com CSS/font02.html"> Exercicio 17 font02</a>
-        </li>
-        <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex018 - Usando Google Fonts/font01.html"> Exercicio 18 font01</a>
-        </li>
-        <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex018 - Usando Google Fonts/font02.html"> Exercicio 18 font02</a>
-        </li>
-        <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex019 - Usando o id e o class com CSS/seletor01.html"> Exercicio 19</a>
-        </li>
-        <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex020 - pseudo-classes e pseudo-elementosem CSS/hover.html"> Exercicio 20 Hover</a>
-        </li>
-        <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex020 - pseudo-classes e pseudo-elementosem CSS/links.html"> Exercicio 20 links</a>
-        </li>
-        <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex020 - pseudo-classes e pseudo-elementosem CSS/pseudoclasse.html"> Exercicio 20 pseudoclasse</a>
-        </li>
-        <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex21 - box-level e bordas decoradas/caixa01.html"> Exercicio 21 caixa01</a>
-        </li>
-        <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex21 - box-level e bordas decoradas/caixa02.html"> Exercicio 21 caixa02</a>
-        </li>
-        <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex21 - box-level e bordas decoradas/caixa03.html"> Exercicio 21 caixa03</a>
-        </li>
-    </ul>
+    <summary>Clique Aqui</summary>
+        <ul>
+            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex016 - representando cores/cor01.html"> Exercicio 16 cor1</a>     
+            </li>
+            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex016 - representando cores/cor02.html"> Exercicio 16 cor2</a>
+            </li>
+            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex016 - representando cores/cor03.html"> Exercicio 16 cor3</a>
+            </li>
+            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex017 - Famílias de fonte com CSS/font01.html"> Exercicio 17 font01</a>
+            </li>
+            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex017 - Famílias de fonte com CSS/font02.html"> Exercicio 17 font02</a>
+            </li>
+            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex018 - Usando Google Fonts/font01.html"> Exercicio 18 font01</a>
+            </li>
+            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex018 - Usando Google Fonts/font02.html"> Exercicio 18 font02</a>
+            </li>
+            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex019 - Usando o id e o class com CSS/seletor01.html"> Exercicio 19</a>
+            </li>
+            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex020 - pseudo-classes e pseudo-elementosem CSS/hover.html"> Exercicio 20 Hover</a>
+            </li>
+            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex020 - pseudo-classes e pseudo-elementosem CSS/links.html"> Exercicio 20 links</a>
+            </li>
+            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex020 - pseudo-classes e pseudo-elementosem CSS/pseudoclasse.html"> Exercicio 20 pseudoclasse</a>
+            </li>
+            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex21 - box-level e bordas decoradas/caixa01.html"> Exercicio 21 caixa01</a>
+            </li>
+            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex21 - box-level e bordas decoradas/caixa02.html"> Exercicio 21 caixa02</a>
+            </li>
+            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 2/ex21 - box-level e bordas decoradas/caixa03.html"> Exercicio 21 caixa03</a>
+            </li>
+        </ul>
 </details>
 <hr><br>
 
 ## Modulo 3 ##
 
 <details>
-    <ul>
-        <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/fundo001.html"> Exercicio 22 Fundo001</a></li>
-        <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/fundo002.html"> Exercicio 22 Fundo002</a></li>
-        <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/fundo003.html"> Exercicio 22 Fundo003</a></li>
-        <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/fundo004.html"> Exercicio 22 Fundo004</a></li>
-        <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/fundo005.html"> Exercicio 22 Fundo005</a></li>
-        <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/fundo006.html"> Exercicio 22 Fundo006</a></li>
-    </ul>
+        <summary>Clique Aqui</summary>
+        <ul>
+            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/fundo001.html"> Exercicio 22 Fundo001</a>
+            </li>
+            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/fundo002.html"> Exercicio 22 Fundo002</a>
+            </li>
+            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/fundo003.html"> Exercicio 22 Fundo003</a>
+            </li>
+            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/fundo004.html"> Exercicio 22 Fundo004</a>
+            </li>
+            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/fundo005.html"> Exercicio 22 Fundo005</a>
+            </li>
+            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/fundo006.html"> Exercicio 22 Fundo006</a>
+            </li>
+        </ul>
 </details>
