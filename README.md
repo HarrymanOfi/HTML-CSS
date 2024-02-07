@@ -10,6 +10,8 @@
 <details>
     <summary>Title 1</summary>
 
+### Modulo 1 ###
+
 - [Ex001 - Hello world](https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex001 - hello world/index.html)
 
 - [Ex002 - Paragrafos e quebras de linha](https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex002 - paragrafos e quebras de linha/index.html)
