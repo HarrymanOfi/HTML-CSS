@@ -8,11 +8,9 @@
 ## Modulo 1 ##
 
 <details>
-    <summary>Title 1</summary>
 
-### Modulo 1 ###
-
-- [Ex001 - Hello world](https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex001 - hello world/index.html)
+* [Ex001 - Hello world](https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex001 - hello world/index.html)
+</details>
 
 - [Ex002 - Paragrafos e quebras de linha](https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex002 - paragrafos e quebras de linha/index.html)
 
@@ -45,8 +43,6 @@
 - [Ex015 - css externo](https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex015 - css externo/index.html)
 
 - [Ex015 - css externo.Pag2](https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex015 - css externo/pagina02.html)
-
-</details>
 
 
     <h2>Modulo 2</h2>
