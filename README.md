@@ -8,6 +8,8 @@
 ## Modulo 1 ##
 
 <details>
+<summary>Modulo 1</summary>
+<li>Ex01 <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex001 - hello world/index.html"></li>
 
 * [Ex001 - Hello world](https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 1/ex001 - hello world/index.html)
 </details>
