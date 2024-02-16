@@ -87,6 +87,10 @@ section#img01 {
     background-position: right center;
 }
 
+section#img02 {
+    background-image: url(imagens/background002.jpg);
+}
+
 footer {
     background-color: black;
     color: white;
