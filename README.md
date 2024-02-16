@@ -2,15 +2,26 @@
     Curso de HTML5 e CSS3 do CursoemVideo
 
     Estou aprendendo a criar sites e agora vou gerenciar repositórios!
+
+# Desafios #
+<div>
+    <details>
+        <summary>Clique Aqui</summary>
+            <ul>
+                <li>
+                    <strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/desafios/modulo-02/d010%20-%20Resolvido/android.html"> Desafio 12</a>
+                </li>
+                <li>
+                    <strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/desafios/modulo-02/d012/index.html"> Desafio 12</a>
+                </li>
+            </ul>
+    </details>
+</div>
+<hr><br>
  
 # Exercicios #
 
 ## Modulo 1 ##
-
-<style>
-
-</style>
-
 
 <div>
     <details>
