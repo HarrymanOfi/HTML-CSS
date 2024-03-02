@@ -146,18 +146,36 @@
 <details>
         <summary>Clique Aqui</summary>
         <ul>
-            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/fundo001.html"> Exercicio 22 Fundo001</a>
-            </li>
-            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/fundo002.html"> Exercicio 22 Fundo002</a>
-            </li>
-            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/fundo003.html"> Exercicio 22 Fundo003</a>
-            </li>
-            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/fundo004.html"> Exercicio 22 Fundo004</a>
-            </li>
-            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/fundo005.html"> Exercicio 22 Fundo005</a>
-            </li>
-            <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/fundo006.html"> Exercicio 22 Fundo006</a>
-            </li>
+            <details>
+                <summary>Ex022</summary>
+                <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/fundo001.html"> Exercicio 22 Fundo001</a>
+                </li>
+                <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/fundo002.html"> Exercicio 22 Fundo002</a>
+                </li>
+                <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/fundo003.html"> Exercicio 22 Fundo003</a>
+                </li>
+                <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/fundo004.html"> Exercicio 22 Fundo004</a>
+                </li>
+                <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/fundo005.html"> Exercicio 22 Fundo005</a>
+                </li>
+                <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/fundo006.html"> Exercicio 22 Fundo006</a>
+                </li>
+            </details>
+            <details>
+                <summary>Ex023</summary>
+                <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/tabela001.html"> Exercicio 23 Tabela001</a>
+                </li>
+                <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/tabela002.html"> Exercicio 23 Tabela002</a>
+                </li>
+                <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/tabela003.html"> Exercicio 23 Tabela003</a>
+                </li>
+                <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/tabela004.html"> Exercicio 23 Tabela004</a>
+                </li>
+                <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/tabela005.html"> Exercicio 23 Tabela005</a>
+                </li>
+                <li><strong>Abrir</strong> <a href="https://harrymanofi.github.io/HTML-CSS/exercicios/modulo 3/ex22/tabela006.html"> Exercicio 23 Tabela006</a>
+                </li>
+            </details>
         </ul>
 </details>
 <hr><br>
