@@ -1,2 +1,9 @@
 @charset "UTF-8";
 /* Dispositvo em Landscape(Paisagem) */
+
+body {
+    background: url(../imagens/cev-landscape.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
